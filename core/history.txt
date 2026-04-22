@@ -1,0 +1,85 @@
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+math engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+funct engine
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+x+x
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+eunct engine
+x+x
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+last command
+lc
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+lc
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+math engine
+lc
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+lc
+funct engine
+lc
+quadratic formula
+funct engine
+funct engine
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+funct engine
+/usr/bin/python3 /Users/nazar/core/math.py
+/usr/bin/python3 /Users/nazar/core/math.py
+/usr/bin/python3 /Users/nazar/core/math.py
+/usr/bin/python3 /Users/nazar/core/math.py
+/usr/bin/python3 /Users/nazar/core/math.py
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+m
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+/usr/bin/python3 /Users/nazar/core/command_engine.py
+funct engine
+n
+a
+efeqwf
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engtine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+funct engine
+math engine
+formula engine
+funct engine
+funct engine
